@@ -1,4 +1,4 @@
-# Under-Water-Image-Compression-using-VQ-Vaes
+# VQ VAE for Under Water Image Compression
 
 - This repository contains the implementation of a deep VQ Vae model which was trained for 75 epochs on the Underwater LSUI Under Water Image Dataset.
 -  Acheived a compression ratio of 139:1 all the while retaining visual quality.
