@@ -11,3 +11,7 @@ groundtruth vs. generated(reconstructed)
 
 <img width="999" height="332" alt="Screenshot 2025-09-06 at 10 46 30 PM" src="https://github.com/user-attachments/assets/0ef3d5a3-d4b6-43ed-a465-3737e47d0287" />
 <img width="1000" height="331" alt="Screenshot 2025-09-06 at 10 46 50 PM" src="https://github.com/user-attachments/assets/c8543f2a-8f7a-4300-b902-b5266d0d97db" />
+
+
+# TO-DO
+- Parallelize the model inference using the PYNQ FPGA
